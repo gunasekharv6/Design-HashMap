@@ -1,4 +1,15 @@
 # Design-HashMap
+### Constraints and assumptions:
+1. For simplicity, are the keys integers only?
+   - Yes
+2. For collision resolution, can we use chaining?
+   - Yes
+3. Do we have to worry about load factors?
+   - No
+4. Can we assume inputs are valid or do we have to validate them?
+   - Assume they're valid
+5. Can we assume this fits memory?
+   - Yes
 
 ### 🧠 What is a HashMap?
 
